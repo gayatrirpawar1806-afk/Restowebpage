@@ -1,0 +1,91 @@
+[
+    {
+        "id":  1,
+        "name": "pizza",
+        "category": "main",
+        "price": 250,
+        "description": "Classic pizza with veggies",
+        "image": "/assets/images/pizza.jpg"
+    },
+    {
+        "id":  2,
+        "name": "momos",
+        "category": "starter",
+        "price": 300,
+        "description": "Veg panner momos with spicy souce",
+        "image": "/assets/images/momos.jpg"  
+    },
+    {
+        "id":  3,
+        "name": "sushi",
+        "category": "starter",
+        "price": 350,
+        "description": "sushi with korean flovour",
+        "image": "/assets/images/sushi.jpg"  
+    },
+    {
+        "id":  4,
+        "name": "grilled chiken",
+        "category": "main",
+        "price": 650,
+        "description": "grilled chiken with spicy chutney",
+        "image": "/assets/images/grilled chiken.jpg"
+    },
+    {
+        "id":  5,
+        "name": "humburger",
+        "category": "main",
+        "price": 180,
+        "description": "burger with creamy cheese ",
+        "image": "/assets/images/humburger.jpg"
+    },
+    {
+        "id":  6,
+        "name": "pasta",
+        "category": "starter",
+        "price": 360,
+        "description": "speciel italian pasta",
+        "image": "/assets/images/pasta.jpg"
+    },
+    {
+        "id":  7,
+        "name": "brownie",
+        "category": "dessert",
+        "price": 240,
+        "description": "brownie with rich chocolate",
+        "image": "/assets/images/brownie.jpg"
+    },
+    {
+        "id":  8,
+        "name": "redvelvet",
+        "category": "dessert",
+        "price": 300,
+        "description": "Desserts with yummy taste",
+        "image": "/assets/images/redvelvet.jpg"
+    },
+    {
+        "id":  9,
+        "name": "Strawberry",
+        "category": "dessert",
+        "price": 320,
+        "description": "Desserts with yummy taste and creammy flour",
+        "image": "/assets/images/Strawberry.jpg"
+    },
+    {
+        "id":  10,
+        "name": "pancakes",
+        "category": "dessert",
+        "price": 200,
+        "description": "dilisious pancake with choco chips",
+        "image": "/assets/images/pancakes.jpg"
+    },
+    {
+        "id":  12,
+        "name": "bruschetta",
+        "category": "starter",
+        "price": 250,
+        "description": "Rich and creamy",
+        "image": "/assets/images/bruschetta.jpg"
+    }
+    
+]
